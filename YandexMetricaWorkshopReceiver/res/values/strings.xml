@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MWReceiver</string>
+    <string name="gender">Пол</string>
+    <string name="age">Возраст</string>
+    <string name="education_stage">Этап обучения</string>
+    <string name="work_status">Работа</string>
+    <string name="absence_reason">Причины пропусков</string>
+    <string name="operations_systems">Операционные системы</string>
+    <string name="user_statistic">Статистика пользователей</string>
+    <string name="rating">Оценка</string>
+    <string name="new_users">Новые пользователи</string>
+    <string name="active_users">Активные пользователи</string>
+</resources>
