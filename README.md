@@ -1,4 +1,4 @@
-# Workshop: Metrica Sender
+# Workshop: Metrica Receiver
 Тестовое приложение для демонстрации SDK Яндекс Метрики.
 
 ## Ссылки
